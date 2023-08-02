@@ -78,7 +78,7 @@ const Pricing = () => {
           </PricingBox>
           <PricingBox
             packageName=""
-            price="Coming soon"
+            price="700"
             duration="..."
             subtitle="Web Development"
           >
