@@ -78,16 +78,16 @@ const Pricing = () => {
           </PricingBox>
           <PricingBox
             packageName=""
-            price="Coming soon"
-            duration="..."
+            price="₹700/-"
+            duration="2 weeks"
             subtitle="Web Development"
           >
             <OfferList text="" status="active" />
-            <OfferList text="Use with Unlimited Projects" status="active" />
-            <OfferList text="Commercial Use" status="active" />
-            <OfferList text="Email Support" status="active" />
-            <OfferList text="Lifetime Access" status="active" />
-            <OfferList text="Free Lifetime Updates" status="inactive" />
+            <OfferList text="HTML,CSS,JavaScript" status="active" />
+            <OfferList text="Responsive Designs" status="active" />
+            <OfferList text="Web Optimisation" status="active" />
+            <OfferList text="Web Dev Projects" status="active" />
+            <OfferList text="Your Own Portfolio" status="active" />
           </PricingBox>
           <PricingBox
             packageName=""
