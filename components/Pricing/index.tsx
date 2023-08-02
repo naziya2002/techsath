@@ -82,7 +82,7 @@ const Pricing = () => {
             duration="2 weeks"
             subtitle="Web Development"
           >
-            <OfferList text="" status="active" />
+            <OfferList text="Best Chance To Become FrontEnd Developer" status="active" />
             <OfferList text="HTML,CSS,JavaScript" status="active" />
             <OfferList text="Responsive Designs" status="active" />
             <OfferList text="Web Optimisation" status="active" />
